@@ -143,3 +143,11 @@ Keep internet stable
 Restart ESP32 if needed
 Re-upload code if error occurs
 Check Template ID and Auth Token carefully
+
+## 🔧 Drivers  
+
+👉 Install this driver before connecting ESP32 to PC  
+
+| Platform | Download |
+|--------|---------|
+| Windows | [CP2102 Driver](VARUN/pololu-cp2102-windows-220616.zip) |
