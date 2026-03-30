@@ -129,6 +129,8 @@ Ensure correct polarity of battery
 - Real-time movement
 - Easy to build
 
+  ![Image](VARUN/real_image.png)
+  
 ## 📲 How it works
 ESP32 connects to WiFi and receives commands from mobile app (Blynk), then controls motors accordingly.
 
