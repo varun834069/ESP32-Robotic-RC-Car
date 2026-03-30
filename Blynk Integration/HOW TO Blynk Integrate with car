@@ -60,12 +60,16 @@ Right   	V3	         Integer
 Min = 0
 Max = 1
 
-🔹 Step 5 – Create Device
-Go to Devices
-Click New Device
-Select From Template
-Choose your template
-Click Create
+### 🔹 Step 5 – Create Device  
+
+📌 Follow these steps:
+
+- Go to Devices  
+- Click New Device  
+- Select From Template  
+- Choose your template  
+- Click Create  
+
 
 🔹 Step 6 – Get Auth Token
 Open your device
@@ -79,28 +83,19 @@ Click Edit Dashboard
 
 🔹 Step 8 – Add Buttons
 Add 4 Button Widgets:
+## 🎮 Button Configuration  
 
-Button 1:
-Name: Forward
-Datastream: V0
-Mode: Switch
-Button 2:
-Name: Backward
-Datastream: V1
-Mode: Switch
-Button 3:
-Name: Left
-Datastream: V2
-Mode: Switch
-Button 4:
-Name: Right
-Datastream: V3
-Mode: Switch
+| Button | Name     | Datastream | Mode   |
+|--------|----------|------------|--------|
+| 1      | Forward  | V0         | Switch |
+| 2      | Backward | V1         | Switch |
+| 3      | Left     | V2         | Switch |
+| 4      | Right    | V3         | Switch |
 
 🔹 Step 9 – Save Dashboard
 Click Save
-
 Exit edit mode
+
 💻 ESP32 Code for Blynk Connection
  
 #define BLYNK_TEMPLATE_ID “YourTemplateID”
