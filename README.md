@@ -129,13 +129,4 @@ ESP32 connects to WiFi and receives commands from mobile app (Blynk), then contr
 
 ---
 
-💡 **Extra Upgrade Idea (optional):**
-Agar tu aur next level banana chahta hai to add kar:
-
-* 📸 Project Images (`images/car.jpg`)
-* 🎥 Demo Video (YouTube link)
-* 📱 Blynk UI Screenshot
-
----
-
 
