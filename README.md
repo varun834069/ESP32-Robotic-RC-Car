@@ -46,13 +46,13 @@ Acts as an interface between ESP32 and motors
 
 L298N Pin	ESP32 Pin
 
-IN1	26
+IN1	----26
 
-IN2	27
+IN2 ----27
 
-IN3	14
+IN3	----14
 
-IN4	12
+IN4	----12
 
 
 ⚡ Power Connections
