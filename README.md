@@ -4,7 +4,9 @@ An IoT based RC car controlled over WiFi using ESP32. This project demonstrates 
 
 ## 📌 Project Overview
 This project is a WiFi controlled robotic car built using ESP32. The car can be controlled using a mobile app over WiFi.
+## 🔌 Circuit Diagram
 
+![Circuit-DIAGRAM](images/circuit%20DIAGRAM.png)
 
 
 🧰 Components Required
