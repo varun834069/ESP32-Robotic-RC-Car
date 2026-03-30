@@ -128,5 +128,12 @@ ESP32 connects to WiFi and receives commands from mobile app (Blynk), then contr
 * Voice control
 
 ---
+NOTES -- IF YOUR ESP32 PORT IS NOT SHOWING 
+## 🔧 Drivers  
 
+👉 Install this driver before connecting ESP32 to PC  
+
+| Platform | Download |
+|--------|---------|
+| Windows | [CP2102 Driver](VARUN/pololu-cp2102-windows-220616.zip) |
 
